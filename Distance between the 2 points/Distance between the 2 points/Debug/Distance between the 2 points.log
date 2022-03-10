@@ -1,0 +1,4 @@
+﻿  Quiz Distance between the 2 points.cpp
+C:\Users\Tayab\Desktop\c++\Distance between the 2 points\Distance between the 2 points\Quiz Distance between the 2 points.cpp(17,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Tayab\Desktop\c++\Distance between the 2 points\Distance between the 2 points\Quiz Distance between the 2 points.cpp(19,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Distance between the 2 points.vcxproj -> C:\Users\Tayab\Desktop\c++\Distance between the 2 points\Debug\Distance between the 2 points.exe

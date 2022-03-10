@@ -1,0 +1,8 @@
+﻿  C++ Templates Class Templates with Default Parameters.cpp
+C:\Users\Tayab\Desktop\c++\C++ Templates Class Templates with Default Parameters\C++ Templates Class Templates with Default Parameters\C++ Templates Class Templates with Default Parameters.cpp(32,36): warning C4305: 'argument': truncation from 'int' to 'T2'
+          with
+          [
+              T2=char
+          ]
+C:\Users\Tayab\Desktop\c++\C++ Templates Class Templates with Default Parameters\C++ Templates Class Templates with Default Parameters\C++ Templates Class Templates with Default Parameters.cpp(32,30): warning C4309: 'argument': truncation of constant value
+  C++ Templates Class Templates with Default Parameters.vcxproj -> C:\Users\Tayab\Desktop\c++\C++ Templates Class Templates with Default Parameters\Debug\C++ Templates Class Templates with Default Parameters.exe

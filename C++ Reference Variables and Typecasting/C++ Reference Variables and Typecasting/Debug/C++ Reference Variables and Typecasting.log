@@ -1,0 +1,6 @@
+﻿  C++ Reference Variables and Typecasting.cpp
+C:\Users\Tayab\Desktop\c++\C++ Reference Variables and Typecasting\C++ Reference Variables and Typecasting\C++ Reference Variables and Typecasting.cpp(19,16): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Tayab\Desktop\c++\C++ Reference Variables and Typecasting\C++ Reference Variables and Typecasting\C++ Reference Variables and Typecasting.cpp(27,8): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Tayab\Desktop\c++\C++ Reference Variables and Typecasting\C++ Reference Variables and Typecasting\C++ Reference Variables and Typecasting.cpp(28,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Tayab\Desktop\c++\C++ Reference Variables and Typecasting\C++ Reference Variables and Typecasting\C++ Reference Variables and Typecasting.cpp(35,8): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  C++ Reference Variables and Typecasting.vcxproj -> C:\Users\Tayab\Desktop\c++\C++ Reference Variables and Typecasting\Debug\C++ Reference Variables and Typecasting.exe

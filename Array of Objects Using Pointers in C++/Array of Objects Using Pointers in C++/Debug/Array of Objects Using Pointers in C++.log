@@ -1,0 +1,4 @@
+﻿  Array of objects using pointers.cpp
+C:\Users\Tayab\Desktop\c++\Array of Objects Using Pointers in C++\Array of Objects Using Pointers in C++\Array of objects using pointers.cpp(20,10): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Tayab\Desktop\c++\Array of Objects Using Pointers in C++\Array of Objects Using Pointers in C++\Array of objects using pointers.cpp(28,13): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  Array of Objects Using Pointers in C++.vcxproj -> C:\Users\Tayab\Desktop\c++\Array of Objects Using Pointers in C++\Debug\Array of Objects Using Pointers in C++.exe

@@ -1,0 +1,4 @@
+﻿  Protected Access Modifier in C++.cpp
+C:\Users\Tayab\Desktop\c++\Protected Access Modifier in C++\Protected Access Modifier in C++\Protected Access Modifier in C++.cpp(20,11): error C2248: 'Base::a': cannot access protected member declared in class 'Base'
+C:\Users\Tayab\Desktop\c++\Protected Access Modifier in C++\Protected Access Modifier in C++\Protected Access Modifier in C++.cpp(6): message : see declaration of 'Base::a'
+C:\Users\Tayab\Desktop\c++\Protected Access Modifier in C++\Protected Access Modifier in C++\Protected Access Modifier in C++.cpp(4): message : see declaration of 'Base'

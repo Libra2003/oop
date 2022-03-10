@@ -1,0 +1,4 @@
+﻿  Dynamic Initialization of Objects Using Constructors.cpp
+C:\Users\Tayab\Desktop\c++\Dynamic Initialization of Objects Using Constructors\Dynamic Initialization of Objects Using Constructors\Dynamic Initialization of Objects Using Constructors.cpp(18,16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Tayab\Desktop\c++\Dynamic Initialization of Objects Using Constructors\Dynamic Initialization of Objects Using Constructors\Dynamic Initialization of Objects Using Constructors.cpp(31,16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Dynamic Initialization of Objects Using Constructors.vcxproj -> C:\Users\Tayab\Desktop\c++\Dynamic Initialization of Objects Using Constructors\Debug\Dynamic Initialization of Objects Using Constructors.exe

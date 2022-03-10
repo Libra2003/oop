@@ -1,0 +1,15 @@
+﻿  C++ Function Templates and Function Templates with Parameters .cpp
+C:\Users\Tayab\Desktop\c++\C++ Function Templates and Function Templates with Parameters\C++ Function Templates and Function Templates with Parameters\C++ Function Templates and Function Templates with Parameters .cpp(5,12): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Tayab\Desktop\c++\C++ Function Templates and Function Templates with Parameters\C++ Function Templates and Function Templates with Parameters\C++ Function Templates and Function Templates with Parameters .cpp(34,8): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Tayab\Desktop\c++\C++ Function Templates and Function Templates with Parameters\C++ Function Templates and Function Templates with Parameters\C++ Function Templates and Function Templates with Parameters .cpp(14,12): warning C4244: 'initializing': conversion from 'T2' to 'float', possible loss of data
+          with
+          [
+              T2=double
+          ]
+C:\Users\Tayab\Desktop\c++\C++ Function Templates and Function Templates with Parameters\C++ Function Templates and Function Templates with Parameters\C++ Function Templates and Function Templates with Parameters .cpp(31): message : see reference to function template instantiation 'float func1<int,double>(T1,T2)' being compiled
+          with
+          [
+              T1=int,
+              T2=double
+          ]
+  C++ Function Templates and Function Templates with Parameters.vcxproj -> C:\Users\Tayab\Desktop\c++\C++ Function Templates and Function Templates with Parameters\Debug\C++ Function Templates and Function Templates with Parameters.exe

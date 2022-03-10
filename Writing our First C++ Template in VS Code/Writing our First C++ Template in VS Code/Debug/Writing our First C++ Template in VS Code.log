@@ -1,0 +1,35 @@
+﻿  Writing our First C++ Template in VS Code.cpp
+C:\Users\Tayab\Desktop\c++\Writing our First C++ Template in VS Code\Writing our First C++ Template in VS Code\Writing our First C++ Template in VS Code.cpp(31,17): warning C4305: '=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Tayab\Desktop\c++\Writing our First C++ Template in VS Code\Writing our First C++ Template in VS Code\Writing our First C++ Template in VS Code.cpp(33,17): warning C4305: '=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Tayab\Desktop\c++\Writing our First C++ Template in VS Code\Writing our First C++ Template in VS Code\Writing our First C++ Template in VS Code.cpp(35,17): warning C4305: '=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Tayab\Desktop\c++\Writing our First C++ Template in VS Code\Writing our First C++ Template in VS Code\Writing our First C++ Template in VS Code.cpp(36,18): warning C4305: '=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Tayab\Desktop\c++\Writing our First C++ Template in VS Code\Writing our First C++ Template in VS Code\Writing our First C++ Template in VS Code.cpp(37,17): warning C4305: '=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Tayab\Desktop\c++\Writing our First C++ Template in VS Code\Writing our First C++ Template in VS Code\Writing our First C++ Template in VS Code.cpp(10,10): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Tayab\Desktop\c++\Writing our First C++ Template in VS Code\Writing our First C++ Template in VS Code\Writing our First C++ Template in VS Code.cpp(9): message : while compiling class template member function 'Vector<float>::Vector(int)'
+C:\Users\Tayab\Desktop\c++\Writing our First C++ Template in VS Code\Writing our First C++ Template in VS Code\Writing our First C++ Template in VS Code.cpp(30): message : see reference to function template instantiation 'Vector<float>::Vector(int)' being compiled
+C:\Users\Tayab\Desktop\c++\Writing our First C++ Template in VS Code\Writing our First C++ Template in VS Code\Writing our First C++ Template in VS Code.cpp(30): message : see reference to class template instantiation 'Vector<float>' being compiled
+  Writing our First C++ Template in VS Code.vcxproj -> C:\Users\Tayab\Desktop\c++\Writing our First C++ Template in VS Code\Debug\Writing our First C++ Template in VS Code.exe

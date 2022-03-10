@@ -1,0 +1,7 @@
+﻿  C++ Templates Templates with Multiple Parameters .cpp
+C:\Users\Tayab\Desktop\c++\C++ Templates Templates with Multiple Parameters\C++ Templates Templates with Multiple Parameters\C++ Templates Templates with Multiple Parameters .cpp(28,43): warning C4305: 'argument': truncation from 'double' to 'T2'
+          with
+          [
+              T2=float
+          ]
+  C++ Templates Templates with Multiple Parameters.vcxproj -> C:\Users\Tayab\Desktop\c++\C++ Templates Templates with Multiple Parameters\Debug\C++ Templates Templates with Multiple Parameters.exe

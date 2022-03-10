@@ -1,0 +1,5 @@
+﻿  Virtual Functions Example + Creation Rules in C++.cpp
+C:\Users\Tayab\Desktop\c++\Virtual Functions Example + Creation Rules in C++\Virtual Functions Example + Creation Rules in C++\Virtual Functions Example + Creation Rules in C++.cpp(54,10): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Tayab\Desktop\c++\Virtual Functions Example + Creation Rules in C++\Virtual Functions Example + Creation Rules in C++\Virtual Functions Example + Creation Rules in C++.cpp(63,13): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Tayab\Desktop\c++\Virtual Functions Example + Creation Rules in C++\Virtual Functions Example + Creation Rules in C++\Virtual Functions Example + Creation Rules in C++.cpp(69,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Virtual Functions Example + Creation Rules in C++.vcxproj -> C:\Users\Tayab\Desktop\c++\Virtual Functions Example + Creation Rules in C++\x64\Debug\Virtual Functions Example + Creation Rules in C++.exe

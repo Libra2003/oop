@@ -1,0 +1,4 @@
+﻿  Member Function Templates , Overloading Template Functions.cpp
+C:\Users\Tayab\Desktop\c++\Member Function Templates and Overloading Template Functions\Member Function Templates and Overloading Template Functions\Member Function Templates , Overloading Template Functions.cpp(32,6): error C2995: 'void func1(Z)': function template has already been defined
+C:\Users\Tayab\Desktop\c++\Member Function Templates and Overloading Template Functions\Member Function Templates and Overloading Template Functions\Member Function Templates , Overloading Template Functions.cpp(27): message : see declaration of 'func1'
+C:\Users\Tayab\Desktop\c++\Member Function Templates and Overloading Template Functions\Member Function Templates and Overloading Template Functions\Member Function Templates , Overloading Template Functions.cpp(47,2): error C2065: 'func1': undeclared identifier
